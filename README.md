@@ -35,7 +35,7 @@ streamlit run app.py
 ## Deploy the dashboard to Streamlit Community Cloud
 
 1. Push this repo to GitHub (public).
-2. Go to [share.streamlit.io](https://share.streamlit.io) → **New app**.
+2. Go to [share.streamlit.io](https://olympichistoryanalysisfinalproject-krj2z7d9tnqnb8kgscv7rg.streamlit.app) → **New app**.
 3. Select this repo, branch `main`, main file path **`app.py`**.
 4. Deploy — copy the resulting `*.streamlit.app` URL back into this README.
 
