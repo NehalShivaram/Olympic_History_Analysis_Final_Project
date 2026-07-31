@@ -1,4 +1,4 @@
-# Olympic History — Final Individual Project (Data Visualization)
+# Olympic History Explorer — Final Individual Project (Data Visualization)
 
 Analysis of 120 years of Olympic history (1896–2016): 12 multi-dimensional analytical
 questions, each answered with a publication-ready Plotly visualization, plus an
